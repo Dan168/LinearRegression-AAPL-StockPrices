@@ -1,0 +1,1 @@
+Project takes stock prices from a CSV downloaded from Yahoo Finance containing the past 6 months of APPL closing prices (not updated). Using Linear Regression, the library looks at the line and predicts however many days in advance the user inputs.
